@@ -4,4 +4,4 @@
 
 ### SPEC
 
-spec 的細節與排名 : [text](https://hackmd.io/@w3390500/ByWlfRfOel)
+spec 的細節與排名 : [spec](https://hackmd.io/@w3390500/ByWlfRfOel)
