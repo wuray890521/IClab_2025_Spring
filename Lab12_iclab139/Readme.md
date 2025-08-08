@@ -1,6 +1,7 @@
 ### Lab12 實驗概述
 
-這次的 lab 是使用助教的 design 進行 APR 但其實是用 lab03 的題目做，這次主要解決 IR drop 在 APR 上的問題
+1. 了解在 APR 時 chip 可能會遇到的問題。
+2. 這次的 lab 是使用助教的 design 進行 APR 但其實是用 lab03 的題目做，這次主要解決 IR drop 在 APR 上的問題
 
 ### 實驗評論
 
