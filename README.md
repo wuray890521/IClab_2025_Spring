@@ -7,4 +7,5 @@
 spec 的細節與排名 : [spec](https://hackmd.io/@w3390500/ByWlfRfOel)
 
 ### APR 部分
-皆使用 U18 製程進行設計但最後也有關於 ADFP(FinFET) 的演講與課程(但需要抽籤)。
+
+在所有的設計專案中皆使用 U18 製程進行設計。最後也有關於 ADFP(FinFET) 的演講與課程(實作部分需要抽籤但我沒抽到)。
