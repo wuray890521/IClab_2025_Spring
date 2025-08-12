@@ -18,10 +18,10 @@
 
 ## APR 結果
 
-# 面積壓縮前 :
+# 面積壓縮前
 
 ![image](https://github.com/wuray890521/IClab_2025_Spring/blob/main/Final_Project_iclab139/final_apr.png)
 
-# 面積壓縮後 :
+# 面積壓縮後
 
 ![image](https://github.com/wuray890521/IClab_2025_Spring/blob/main/Final_Project_iclab139/2025_spring_final_apr.png)
